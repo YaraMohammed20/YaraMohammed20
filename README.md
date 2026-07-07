@@ -48,7 +48,7 @@ A recipe browsing application built with modern JavaScript and API integration.
 ### 📝 Note App
 A simple note-taking application that allows users to create, edit, and delete notes.
 
-🔗 https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/login
+🔗 https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/
 
 ---
 <!--
