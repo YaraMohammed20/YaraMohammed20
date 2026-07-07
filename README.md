@@ -25,7 +25,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vite,nodejs,npm,git,github,vscode,figma,firebase,vercel,netlify,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vite,nodejs,npm,git,github,vscode,figma,vercel,netlify,postman" />
 
 </p>
 
@@ -52,7 +52,6 @@ JavaScript OOP project using Fetch API & Bootstrap.
 
 🔗 https://github.com/YaraMohammed20
 
----
 <!--
 ## 📊 GitHub Stats
 
@@ -64,7 +63,6 @@ JavaScript OOP project using Fetch API & Bootstrap.
 
 </p>
 
----
 <!--
 ## 🔥 GitHub Streak
 
@@ -74,7 +72,6 @@ JavaScript OOP project using Fetch API & Bootstrap.
 
 </p>
 -->
----
 <!--
 ## 🏆 GitHub Trophies
 
