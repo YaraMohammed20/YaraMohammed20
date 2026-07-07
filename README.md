@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 - 🎓 Computer Science Student
 - 💻 Passionate Front-End Developer
