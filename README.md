@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Yara Mohammed Gamal</h1>
+<h1 align="center">Hello, I'm Yara Mohammed Gamal</h1>
 <h3 align="center">Front-End Developer | React & Next.js Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/YaraMohammed20">
     <img src="https://komarev.com/ghpvc/?username=YaraMohammed20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -53,7 +53,7 @@ JavaScript OOP project using Fetch API & Bootstrap.
 🔗 https://github.com/YaraMohammed20
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -65,7 +65,7 @@ JavaScript OOP project using Fetch API & Bootstrap.
 </p>
 
 ---
-
+<!--
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -73,9 +73,9 @@ JavaScript OOP project using Fetch API & Bootstrap.
 <img src="https://streak-stats.demolab.com?user=YaraMohammed20&theme=tokyonight&hide_border=true"/>
 
 </p>
-
+-->
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -83,7 +83,7 @@ JavaScript OOP project using Fetch API & Bootstrap.
 <img src="https://github-profile-trophy.vercel.app/?username=YaraMohammed20&theme=tokyonight&row=1&column=7"/>
 
 </p>
-
+-->
 ---
 
 ## 🌐 Connect With Me
@@ -110,7 +110,6 @@ JavaScript OOP project using Fetch API & Bootstrap.
 
 ## 💡 Quote
 
-> "Code. Learn. Build. Repeat."
-> "Never Stop."
+> "Code. Learn. Repeat. Never Stop."
 
 ⭐ Thanks for visiting my profile!
