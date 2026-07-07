@@ -33,25 +33,31 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Portfolio Website
-Built with React, Next.js and TypeScript.
+### 🛒 TechMart E-Commerce
+A modern e-commerce website featuring product listings, shopping experience, and responsive design.
 
-🔗 https://github.com/YaraMohammed20
-
----
-
-### 🌦 Weather App
-Responsive weather application using Weather API.
-
-🔗 https://github.com/YaraMohammed20
+🔗 https://github.com/YaraMohammed20/Techmart-E-Commerce
 
 ---
 
-### 🎮 Game Review App
-JavaScript OOP project using Fetch API & Bootstrap.
+### 🍽️ Recipes App
+A recipe browsing application built with modern JavaScript and API integration.
 
-🔗 https://github.com/YaraMohammed20
+🔗 https://github.com/YaraMohammed20/Recipes_Task
 
+---
+
+### 📝 Note App
+A simple note-taking application that allows users to create, edit, and delete notes.
+
+🔗 https://github.com/YaraMohammed20/NoteApp_Task
+
+### 🌐 Portfolio Bootstrap (48h Challenge)
+A responsive personal portfolio built with Bootstrap, showcasing my skills, projects, and responsive UI design.
+
+🔗 https://github.com/YaraMohammed20/Portfolio_Bootstrap_Test_48h
+
+---
 <!--
 ## 📊 GitHub Stats
 
