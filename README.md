@@ -36,28 +36,20 @@
 ### 🛒 TechMart E-Commerce
 A modern e-commerce website featuring product listings, shopping experience, and responsive design.
 
-🔗 https://github.com/YaraMohammed20/Techmart-E-Commerce
 🔗 https://techmart-e-commerce-imxy.vercel.app/
 ---
 
 ### 🍽️ Recipes App
 A recipe browsing application built with modern JavaScript and API integration.
 
-🔗 https://github.com/YaraMohammed20/Recipes_Task
 🔗 https://yara-mohammed-sun-wed-5-8-recipes-r.vercel.app/
 ---
 
 ### 📝 Note App
 A simple note-taking application that allows users to create, edit, and delete notes.
 
-🔗 https://github.com/YaraMohammed20/NoteApp_Task
 🔗 https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/login
 
-### 🌐 Portfolio Bootstrap (48h Challenge)
-A responsive personal portfolio built with Bootstrap, showcasing my skills, projects, and responsive UI design.
-
-🔗 https://github.com/YaraMohammed20/Portfolio_Bootstrap_Test_48h
-🔗 https://portfolio-bootstrap-test-48h.vercel.app/
 ---
 <!--
 ## 📊 GitHub Stats
