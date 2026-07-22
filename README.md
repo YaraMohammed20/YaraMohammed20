@@ -25,7 +25,7 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vite,nodejs,npm,git,github,vscode,figma,vercel,netlify,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vite,nodejs,npm,git,github,vscode,figma,vercel,netlify,postman" />
 
 </p>
 
