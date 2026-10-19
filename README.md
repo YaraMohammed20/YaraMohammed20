@@ -1,3 +1,4 @@
+
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Yara%20Mohammed%20Gamal&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="Yara Mohammed Gamal Header" />
 </p>
@@ -5,18 +6,20 @@
 <h3 align="center">Front-End Developer | React & Next.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Crafting+Digital+Experiences+%E2%9C%A8;Building+with+React+%26+Next.js;Designing+Clean+%26+Responsive+UIs;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Crafting+Digital+Experiences;Building+with+React+%26+Next.js;Designing+Clean+%26+Responsive+UIs;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://ymg-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=171126" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/✦%20Explore%20Portfolio-8B5CF6?style=for-the-badge&labelColor=171126" alt="Explore Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/yara-mohammed-gamal/">
-    <img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171126" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-171126?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:yara.mohammed.gamal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_TALK-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171126" alt="Email" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-171126?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email" />
   </a>
 </p>
 
@@ -82,7 +85,7 @@ I enjoy transforming ideas into **modern, responsive, and interactive web experi
 
 <p>
   <a href="https://techmart-e-commerce-imxy.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/↗%20Live%20Demo-8B5CF6?style=for-the-badge&labelColor=171126" alt="Live Demo" />
   </a>
 </p>
 
@@ -92,13 +95,11 @@ A modern e-commerce experience built around intuitive shopping, responsive layou
 - **Features:** Product browsing, category navigation, search, cart, wishlist, authentication, account management, and checkout.
 - **Highlights:** Reusable UI components and responsive shopping workflows.
 
----
-
 ### 🌸 Ghibli — Movie Discovery App
 
 <p>
   <a href="https://ghibli-mid.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/↗%20Live%20Demo-8B5CF6?style=for-the-badge&labelColor=171126" alt="Live Demo" />
   </a>
 </p>
 
@@ -108,13 +109,11 @@ Explore the magical world of Studio Ghibli through a movie discovery application
 - **Features:** Movie browsing, search, and a personal watchlist.
 - **Highlights:** Dynamic API integration and an engaging, responsive UI.
 
----
-
 ### 🍽️ Recipes — Recipe Explorer
 
 <p>
   <a href="https://yara-mohammed-sun-wed-5-8-recipes-r.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/↗%20Live%20Demo-8B5CF6?style=for-the-badge&labelColor=171126" alt="Live Demo" />
   </a>
 </p>
 
@@ -124,13 +123,11 @@ A responsive recipe application designed to make discovering and exploring recip
 - **Features:** Recipe browsing, dynamic recipe data, and interactive content.
 - **Highlights:** API-powered experiences and responsive layouts.
 
----
-
 ### 📝 Note App — Personal Notes Manager
 
 <p>
   <a href="https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/↗%20Live%20Demo-8B5CF6?style=for-the-badge&labelColor=171126" alt="Live Demo" />
   </a>
 </p>
 
@@ -159,16 +156,19 @@ A lightweight note-taking application for creating, updating, and organizing not
 
 <p align="center">
   <a href="https://github.com/YaraMohammed20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-171126?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/yara-mohammed-gamal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-171126?style=for-the-badge&logo=linkedin&logoColor=C4B5FD" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://ymg-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="mailto:yara.mohammed.gamal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-171126?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email" />
   </a>
 </p>
 
