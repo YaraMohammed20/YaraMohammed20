@@ -1,151 +1,181 @@
- <div align="center">
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Yara%20Mohammed%20Gamal&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="Yara Mohammed Gamal Header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090512,50:5B21B6,100:A855F7&height=240&section=header&text=Yara%20Mohammed%20Gamal&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Front-End%20Developer%20%7C%20React%20%26%20Next.js&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Animated purple header" />
+<h3 align="center">Front-End Developer | React & Next.js</h3>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+GitHub+profile+%F0%9F%92%9C;Building+Modern+Web+Experiences+%E2%9C%A8;React+%7C+Next.js+%7C+JavaScript;Turning+Ideas+Into+Interactive+UI+%F0%9F%9A%80" alt="Typing animation" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Crafting+Digital+Experiences+%E2%9C%A8;Building+with+React+%26+Next.js;Designing+Clean+%26+Responsive+UIs;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://ymg-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=171126" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/yara-mohammed-gamal/">
+    <img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171126" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yara.mohammed.gamal.dev@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_TALK-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171126" alt="Email" />
+  </a>
+</p>
 
-<a href="https://ymg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/YaraMohammed20"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/yara-mohammed-gamal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:yara.mohammed.gamal.dev@gmail.com"><img src="https://img.shields.io/badge/Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YaraMohammed20&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YaraMohammed20&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
-## 💜 About Me
-
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+## ◈ 01 — About Me
 
 ```javascript
 const yara = {
-  role: "Front-End Developer",
-  languages: ["HTML", "CSS", "JavaScript"],
-  frameworks: ["React", "Next.js"],
-  learning: ["TypeScript", "AI"],
-  goal: "Full-Stack Developer",
-  passion: "Building creative web experiences"
+  title: "Front-End Developer",
+  technologies: ["React", "Next.js", "JavaScript", "TypeScript"],
+  styling: ["Tailwind CSS", "Bootstrap", "CSS"],
+  currentlyExploring: ["AI", "Modern Web Technologies"],
+  nextGoal: "Full-Stack Development",
+  philosophy: "Build with purpose. Improve every day."
 };
 ```
 
-- 💻 Creating modern and responsive web applications.
-- ⚡ Building reusable components and interactive interfaces.
-- 🎨 Passionate about UI design and user experience.
-- 🌱 Always learning and exploring new technologies.
-- 🚀 Turning ideas into real-world projects.
-- 📫 Email: **yara.mohammed.gamal.dev@gmail.com**
+I enjoy transforming ideas into **modern, responsive, and interactive web experiences**. My focus is on building clean interfaces, reusable components, and user-friendly applications while continuously exploring new technologies.
 
-<br clear="right"/>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Front-End Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind&theme=dark" alt="Frontend technologies" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,postman,vercel,netlify&theme=dark" alt="Developer tools" />
-
-</div>
+- ✦ Building responsive web applications with React and Next.js.
+- ✦ Creating reusable components and interactive user interfaces.
+- ✦ Integrating APIs and developing dynamic web experiences.
+- ✦ Exploring AI and expanding my development skills.
+- ✦ Always learning, building, and improving.
 
 ---
 
-## 🚀 Featured Projects
+## ◈ 02 — Tech Arsenal
 
-<div align="center">
+<p align="center"><b>FRONT-END DEVELOPMENT</b></p>
 
-<a href="https://techmart-e-commerce-imxy.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%9B%92_TechMart-E--Commerce-8B5CF6?style=for-the-badge" alt="TechMart E-Commerce" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="Front-End Technologies" />
+</p>
 
-<p>A modern e-commerce experience featuring product browsing, shopping functionality, and responsive layouts.</p>
+<p align="center"><b>TOOLS & WORKFLOW</b></p>
 
-<a href="https://techmart-e-commerce-imxy.vercel.app/">🌐 Live Demo</a> · <a href="https://github.com/YaraMohammed20/Techmart-E-Commerce">💻 Source Code</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,postman,vercel,netlify&theme=dark" alt="Development Tools" />
+</p>
 
-<br/><br/>
-
-<a href="https://yara-mohammed-sun-wed-5-8-recipes-r.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8D%BD%EF%B8%8F_Recipes_App-EC4899?style=for-the-badge" alt="Recipes App" />
-</a>
-
-<p>A recipe browsing application featuring API integration and dynamic content.</p>
-
-<a href="https://yara-mohammed-sun-wed-5-8-recipes-r.vercel.app/">🌐 Live Demo</a>
-
-<br/><br/>
-
-<a href="https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/">
-<img src="https://img.shields.io/badge/%F0%9F%93%9D_Note_App-7C3AED?style=for-the-badge" alt="Note App" />
-</a>
-
-<p>A simple note-taking app for creating, editing, and deleting notes.</p>
-
-<a href="https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/">🌐 Live Demo</a>
-
-<br/><br/>
-
-<a href="https://ymg-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/%E2%9C%A8_View_My_Full_Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Full portfolio" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Responsive_Design-C4B5FD?style=flat-square&labelColor=171126" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/CRUD_Operations-A78BFA?style=flat-square&labelColor=171126" alt="CRUD Operations" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## ◈ 03 — Featured Projects
 
-<div align="center">
+<p align="center">
+  <i>A collection of projects where functionality meets thoughtful design.</i>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YaraMohammed20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=C084FC&ring_color=A855F7" alt="GitHub statistics" />
+### 🛍️ TechMart — E-Commerce Platform
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraMohammed20&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
+<p>
+  <a href="https://techmart-e-commerce-imxy.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
 
-<br/><br/>
+A modern e-commerce experience built around intuitive shopping, responsive layouts, and interactive product management.
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YaraMohammed20&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YaraMohammed20/YaraMohammed20/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
-
-</div>
+- **Stack:** Next.js · TypeScript · Tailwind CSS · HeroUI · Redux
+- **Features:** Product browsing, category navigation, search, cart, wishlist, authentication, account management, and checkout.
+- **Highlights:** Reusable UI components and responsive shopping workflows.
 
 ---
 
-## 🌐 Let's Connect
+### 🌸 Ghibli — Movie Discovery App
 
-<div align="center">
+<p>
+  <a href="https://ghibli-mid.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
 
-<a href="https://github.com/YaraMohammed20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/yara-mohammed-gamal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://ymg-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:yara.mohammed.gamal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+Explore the magical world of Studio Ghibli through a movie discovery application with a clean interface and interactive features.
 
-<br/><br/>
+- **Stack:** React · Vite · JavaScript · Tailwind CSS · REST APIs
+- **Features:** Movie browsing, search, and a personal watchlist.
+- **Highlights:** Dynamic API integration and an engaging, responsive UI.
 
-### ✨ Code with purpose. Design with passion. Keep growing.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:090512&height=120&section=footer" width="100%" alt="Purple footer" />
+### 🍽️ Recipes — Recipe Explorer
 
-**Thanks for visiting my profile! 💜**
+<p>
+  <a href="https://yara-mohammed-sun-wed-5-8-recipes-r.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
 
-</div>
+A responsive recipe application designed to make discovering and exploring recipes simple and enjoyable.
+
+- **Stack:** React · JavaScript · API Integration · CSS
+- **Features:** Recipe browsing, dynamic recipe data, and interactive content.
+- **Highlights:** API-powered experiences and responsive layouts.
+
+---
+
+### 📝 Note App — Personal Notes Manager
+
+<p>
+  <a href="https://yara-mohammed-sun-wed-5-8-note-app.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+A lightweight note-taking application for creating, updating, and organizing notes through a straightforward interface.
+
+- **Stack:** React · JavaScript · CRUD Operations
+- **Features:** Create, edit, and delete notes.
+- **Highlights:** Dynamic content updates and interactive state management.
+
+---
+
+## ◈ 04 — GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YaraMohammed20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraMohammed20&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YaraMohammed20&hide_border=true&background=0D1117&ring=8B5CF6&fire=C084FC&currStreakLabel=C4B5FD&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## ◈ 05 — Let's Connect
+
+<p align="center">
+  <a href="https://github.com/YaraMohammed20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yara-mohammed-gamal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ymg-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:yara.mohammed.gamal.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Good code solves problems. Great experiences make people stay."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4C1D95,100:0D1117&height=140&section=footer" width="100%" alt="Purple Gradient Footer" />
+</p>
