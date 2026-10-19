@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yara Mohammed Gamal
+<h1 align="center">Hello, I'm Yara Mohammed Gamal</h1>
 
 <div align="center">
 
@@ -58,14 +58,6 @@ const yara = {
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://techmart-e-commerce-imxy.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YaraMohammed20&repo=Techmart-E-Commerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC" alt="TechMart E-Commerce" />
-</a>
-
-</div>
 
 ### 🛒 TechMart — E-Commerce
 
