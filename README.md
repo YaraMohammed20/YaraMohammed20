@@ -17,7 +17,7 @@
 - 🌱 Currently learning **React, Next.js & TypeScript & AI**
 - 🚀 Building responsive and modern web applications
 - 🎯 Goal: Become a Full-Stack Developer
-- 📫 Reach me: **yara.gamalfathy@gmail.com**
+- 📫 Reach me: **yara.mohammed.gamal.dev@gmail.com**
 
 ---
 
